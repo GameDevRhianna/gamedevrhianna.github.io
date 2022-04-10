@@ -1,2 +1,2 @@
-# Dylans-Website
-A really shitty website.
+# gamedevdylan.me
+A website all about me!
