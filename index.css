@@ -16,3 +16,9 @@ h2 {
 .links {
     text-align: center;
 }
+
+.list {
+    display: table;
+    margin: 0 auto;
+    font-family: "Apple SD Gothic Neo";
+}
