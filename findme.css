@@ -1,9 +1,24 @@
 body {
     background-color: #d1fffa;
+    font-family: "Ubuntu";
+    font-size: 21px;
+    text-align: center;
+    padding-top: 350px;
+
 }
 
-img {
-    position: center;
-    width: 300px;
-    height: 200px;
+.YouTube {
+    padding: 10px;
+}
+
+.Twitter {
+    padding: 10px;
+}
+
+.Instagram {
+    padding: 10px;
+}
+
+.Github {
+    padding: 10px;
 }
