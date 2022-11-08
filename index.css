@@ -1,12 +1,34 @@
 body {
-    background-color: #d1fffa;
+    background-image: url("images/space 2.jpg");
     font-family: "Ubuntu", serif;
     font-size: 21px;
     text-align: center;
 }
 
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+li {
+    color: aliceblue;
+}
+
+#mario {
+    padding-right: 35px;
+}
+
+#link {
+}
+
 .links {
-    text-align: center;
+    font-size: 25px;
+    display: flex;
+    padding-right: 40px;
+    justify-content: center;
 }
 
 .list {
